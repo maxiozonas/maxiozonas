@@ -69,4 +69,4 @@
 
 ## 📄 My Resume
 
-You can view or download my resume by clicking [here](https://your-link-to-cv.com/cv.pdf).
+You can view or download my resume by clicking [here](https://github.com/maxiozonas/maxiozonas/blob/main/Ozonas%2C%20Maximo%20(English%20CV).pdf).
