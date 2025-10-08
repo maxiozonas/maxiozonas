@@ -60,6 +60,12 @@
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=maxiozonas&show_icons=true&theme=dark)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=maxiozonas&layout=compact&theme=dark)
+
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flate&logo=git)
