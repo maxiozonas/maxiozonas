@@ -80,10 +80,6 @@ Implemented security features (rate limiting, honeypot) and SEO optimization.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiozonas&layout=compact&theme=dark" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maxiozonas&theme=dark&hide_border=false" height="160" />
-</p>
-
 ---
 
 ## 🤝 Connect with me
