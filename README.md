@@ -1,97 +1,85 @@
-<h1 align="center">Hi, I'm Maximo Ozonas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+  Máximo Ozonas | Software Developer
+</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;UTN+Programming+Technician;Freelancer;Always+Learning+New+Technologies&center=true&width=420&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Especialista+en+Laravel+y+React;Automatizaci%C3%B3n+con+Python;Problem+Solver+con+IA" alt="Typing SVG" />
+</p>
+
+---
+
+### 👤 Perfil Profesional
+Desarrollador enfocado en la creación de soluciones tecnológicas que resuelven problemas de negocio reales. Experiencia liderando la modernización de sistemas en el sector retail y el desarrollo de ERPs industriales. Experto en el diseño de APIs robustas y optimización de flujos de trabajo mediante inteligencia artificial.
+
+---
+
+### 💼 Experiencia y Proyectos Clave
+
+#### 🐟 Food Partners Patagonia S.A. | ERP Industrial
+Desarrollo integral de un sistema de gestión para la industria pesquera orientado a la trazabilidad completa del ciclo productivo.
+- **Backend:** Arquitectura de APIs REST mediante **Laravel**.
+- **Frontend:** Interfaces dinámicas desarrolladas en **React** y **TypeScript**.
+- **Infraestructura:** Contenedorización de entornos con **Docker**.
+
+#### 🛒 Giliycia srl | E-commerce & Automatización
+Liderazgo en la modernización del ecosistema digital y optimización operativa de una compañía líder en retail.
+- **Automatización:** Desarrollo de paquetes de utilidades en **Python** para sincronización masiva de datos vía API.
+- **Sistemas Internos:** Implementación de herramientas de gestión de flujo de clientes y procesos logísticos.
+- **Seguridad:** Monitoreo y protección de infraestructura crítica.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<p align="left">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 🧠 Metodología de Desarrollo
+Optimización de ciclos de entrega de software mediante el uso avanzado de **LLMs (Claude Sonnet / Opus)**. Este enfoque permite delegar tareas repetitivas para centrar el esfuerzo técnico en la **arquitectura de sistemas**, la **seguridad** y la **escalabilidad** del código.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxiozonas&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Máximo" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiozonas&layout=compact&theme=tokyonight" alt="Lenguajes de Máximo" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiozonas&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Contacto
+<p align="left">
+  <a href="https://www.linkedin.com/in/maximoozonas/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:maxiozonas10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/maxiozonas/maxiozonas/blob/main/Ozonas%2C%20Maximo%20(English%20CV).pdf">
+    <img src="https://img.shields.io/badge/Descargar%20CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  I’m a <strong>Full Stack Web Developer</strong> and graduate from the <strong>National Technological University (UTN)</strong> in Argentina.  
-  I build complete web applications that combine dynamic interfaces with secure, scalable back-end architectures.
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧭 [Madryn Empleos](https://madrynempleos.com)
-Cofounder and lead developer of a platform connecting job opportunities in Puerto Madryn.  
-Built with **Next.js**, **React**, **Spring Boot**, and **PostgreSQL**.  
-Deployed with **Vercel**, **Render**, and **Docker**, using **JWT & OAuth2** for authentication.
-
-### 🌊 [Madryn Buceo](https://madrynbuceo.com)
-Freelance project for a local diving business.  
-Developed a modern, responsive site with **Next.js 15**, **TypeScript**, **TailwindCSS**, **Framer Motion**, and **Leaflet**.  
-Optimized for performance with lazy loading and reusable components.
-
-### 🏗️ [Inspira Ingeniería](https://ingenieriainspira.com)
-Developed a maintainable, responsive website for a civil engineering firm.  
-Used **Next.js App Router**, **Prisma**, **Cloudinary**, and **serverless APIs**.  
-Implemented security features (rate limiting, honeypot) and SEO optimization.
-
----
-
-## ⚙️ Technologies
-
-### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-404d59?style=flat&logo=express)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring)
-![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=flat&logo=prisma)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?style=flat&logo=visual-studio-code)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat&logo=google-cloud)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0167ff?style=flat&logo=digitalocean)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxiozonas&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiozonas&layout=compact&theme=dark" height="160" />
-</p>
-
----
-
-## 🤝 Connect with me
-
-<p align="center">
-	<a href="mailto:maxiozonas10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/maximoozonas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/maxiozonas/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
----
-
-## 📄 My Resume
-You can view or download my resume [here](https://github.com/maxiozonas/maxiozonas/blob/main/Ozonas%2C%20Maximo%20(English%20CV).pdf).
-
