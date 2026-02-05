@@ -61,12 +61,12 @@ Optimización de ciclos de entrega de software mediante el uso avanzado de **LLM
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxiozonas&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Máximo" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiozonas&layout=compact&theme=tokyonight" alt="Lenguajes de Máximo" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxiozonas&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas Generales" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiozonas&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiozonas&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxiozonas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" alt="Detalles de actividad" />
 </p>
 
 ---
