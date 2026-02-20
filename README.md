@@ -16,13 +16,13 @@ Desarrollador enfocado en la creación de soluciones tecnológicas que resuelven
 
 ### 💼 Experiencia y Proyectos Clave
 
-#### 🐟 Food Partners Patagonia S.A. | ERP Industrial
+#### 🐟 Food Partners Patagonia S.A. | Full Stack Developer
 Desarrollo integral de un sistema de gestión para la industria pesquera orientado a la trazabilidad completa del ciclo productivo.
 - **Backend:** Arquitectura de APIs REST mediante **Laravel**.
 - **Frontend:** Interfaces dinámicas desarrolladas en **React** y **TypeScript**.
 - **Infraestructura:** Contenedorización de entornos con **Docker**.
 
-#### 🛒 Giliycia srl | E-commerce & Automatización
+#### 🛒 Giliycia srl | Full Stack Developer
 Liderazgo en la modernización del ecosistema digital y optimización operativa de una compañía líder en retail.
 - **Automatización:** Desarrollo de paquetes de utilidades en **Python** para sincronización masiva de datos vía API.
 - **Sistemas Internos:** Implementación de herramientas de gestión de flujo de clientes y procesos logísticos.
