@@ -33,6 +33,14 @@ Building tools and platforms for digital transformation across multiple business
 
 ---
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=maxiozonas&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### Tech Stack
 
 **Backend**
