@@ -33,16 +33,6 @@ Building tools and platforms for digital transformation across multiple business
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxiozonas&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiozonas&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=maxiozonas&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### Tech Stack
 
 **Backend**
