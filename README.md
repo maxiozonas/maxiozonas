@@ -1,81 +1,81 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> 
-  Máximo Ozonas | Full Stack Developer
-</h1>
+## Máximo Ozonas
+
+**Full Stack Developer** · Bahía Blanca, Argentina
+
+3 years building production systems with modern web technologies and AI-assisted workflows.
+
+---
+
+### About
+
+Full Stack Developer focused on building real-world business applications — from traceability platforms to e-commerce evolution. I use AI-powered development tools daily to ship faster and write better code. Currently working on digital transformation projects at Giliycia.
+
+---
+
+### Experience
+
+**Food Partners Patagonia** — Full Stack Developer
+
+End-to-end development of a traceability and business management platform for the fishing industry.
+
+- Designed and built a multi-module system covering critical business processes with real-time operational visibility
+- Backend architecture with Laravel: RESTful APIs, external integrations, JWT authentication, role-based access control
+- Frontend interfaces with React and TypeScript for operations and admin panels
+- Hexagonal architecture, relational database design, Docker-based infrastructure, and technical documentation
+
+**Giliycia** — Full Stack Developer *(current)*
+
+Building tools and platforms for digital transformation across multiple business sectors.
+
+- Magento platform evolution: feature development, technical debt reduction, and operational support
+- Internal applications for process automation, QR-based solutions, and shift management
+- Operational and logistics tooling with continuous integrations and improvements
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=45A1FF&center=true&vCenter=true&width=520&lines=Laravel+%2B+React+%2B+TypeScript+%2B+PostgreSQL;Arquitectura%2C+seguridad+y+mantenibilidad;Sistemas+modulares+%7C+Integraciones+%7C+Automatizaci%C3%B3n;Always+learning+%7C+Cloud+%7C+Distributed+systems" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxiozonas&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiozonas&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=maxiozonas&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 👤 Sobre mí
-Full Stack Developer especializado en **Laravel, React, TypeScript y PostgreSQL**. Experiencia construyendo **sistemas modulares** e integraciones, con foco en **arquitectura**, **mantenibilidad**, **seguridad** (roles/permisos, JWT) y evolución continua del producto.
+### Tech Stack
 
-Me interesa trabajar en equipos donde se construyen productos reales, con buenas prácticas, y seguir creciendo en **cloud** y **sistemas distribuidos**.
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
----
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-## 💼 Experiencia destacada
-
-### 🐟 Food Partners Patagonia | Full Stack Developer
-Participé en el desarrollo integral de un sistema de **trazabilidad y gestión empresarial** para el sector pesquero, diseñado para centralizar y dar soporte a múltiples etapas del proceso productivo y operativo dentro de una solución Full Stack escalable.
-
-- Plataforma **multimódulo** para procesos críticos del negocio y visibilidad en tiempo real.
-- **Backend (Laravel):** diseño e implementación de APIs e integraciones.
-- **Frontend (React + TypeScript):** interfaces para operación y administración.
-- **Seguridad y arquitectura:** JWT, control de acceso por roles/permisos, arquitectura hexagonal y BD relacional.
-- **Infra:** Docker + documentación técnica para sostener la evolución.
-
-### 🧱 Giliycia | Full Stack Developer
-Participo en el desarrollo de herramientas y soluciones que acompañan la transformación tecnológica de distintos sectores del negocio.
-
-- Evolución funcional de plataforma basada en **Magento**: nuevas funcionalidades, mejoras técnicas y soporte a la operación.
-- Desarrollo de aplicaciones internas orientadas a **automatización** y mejora de eficiencia operativa.
-- Implementación de soluciones para **QR**, **gestión de turnos** y soporte a áreas **operativas y logísticas**.
-- Participación en **integraciones** y mejoras técnicas continuas.
+**Platforms & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Magento](https://img.shields.io/badge/Magento-EE4623?style=flat&logo=magento&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
+### AI & Developer Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+I integrate AI into my daily development workflow to improve code quality, accelerate delivery, and explore better architectural decisions.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+![OpenCode](https://img.shields.io/badge/OpenCode-AI%20Powered-6E40C9?style=flat&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-AI%20Assistant-191919?style=flat&logo=claude&logoColor=white)
 
 ---
 
-## 🧩 En qué me enfoco
-- Diseño de software orientado a **mantenibilidad** y **escalabilidad**
-- Integraciones, APIs y herramientas internas con impacto operativo
-- Buenas prácticas: code reviews, testing, debugging y documentación
-- Aprendizaje continuo: **cloud**, mensajería y sistemas distribuidos
+### Contact
 
----
-
-## 🤝 Contacto
-<p align="left">
-  <a href="https://www.linkedin.com/in/maximoozonas/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:maxiozonas10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/maxiozonas/maxiozonas/blob/main/Ozonas%2C%20Maximo%20(English%20CV).pdf">
-    <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maximoozonas-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximoozonas)
+[![Gmail](https://img.shields.io/badge/maxiozonas10@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maxiozonas10@gmail.com)
+[![Instagram](https://img.shields.io/badge/@maxiozonas-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/maxiozonas)
