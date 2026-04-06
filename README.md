@@ -21,37 +21,45 @@ Currently working on digital transformation projects at **Giliycia** in Bahía B
 
 ## `>_ experience`
 
-| Company | Role | Period |
-|:---|:---|:---|
-| **Giliycia** | Full Stack Developer | *Present* |
-| **Food Partners Patagonia** | Full Stack Developer | *Previous* |
+<br/>
 
-<table><tr>
-<td width="50%" valign="top">
+<table><tr><td valign="top">
 
-### 🟢 Giliycia
+### 🟢 Giliycia — *Present*
 
-Building tools for digital transformation:
+```
+Full Stack Developer
+```
 
-- Magento platform evolution & tech debt reduction
-- Internal automation & QR-based solutions
-- Shift management & logistics tooling
+Building tools and platforms for digital transformation across multiple business sectors.
+
+- Magento platform evolution & technical debt reduction
+- Internal applications for process automation & QR solutions
+- Shift management & operational logistics tooling
 - Continuous integrations & improvements
 
-</td>
-<td width="50%" valign="top">
+</td></tr></table>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-8150-512617075912.gif" height="20" /></p>
+
+<table><tr><td valign="top">
 
 ### 🔵 Food Partners Patagonia
 
-Traceability platform for fishing industry:
+```
+Full Stack Developer
+```
 
-- Multi-module system, real-time visibility
-- **Laravel** backend — RESTful APIs, JWT, RBAC
-- **React + TypeScript** ops & admin panels
-- Hexagonal architecture, Docker infrastructure
+End-to-end development of a traceability and business management platform for the fishing industry.
 
-</td>
-</tr></table>
+- Multi-module system with real-time operational visibility
+- **Laravel** backend: RESTful APIs, JWT auth, RBAC, external integrations
+- **React + TypeScript** frontend for operations and admin panels
+- Hexagonal architecture, relational database design, Docker infrastructure
+
+</td></tr></table>
+
+<br/>
 
 ---
 
