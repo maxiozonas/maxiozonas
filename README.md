@@ -1,79 +1,216 @@
-## Máximo Ozonas
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d1117&height=200&section=header&text=&fontSize=0" />
+</p>
 
-**Full Stack Developer** · Bahía Blanca, Argentina
-
-3 years building production systems with modern web technologies and AI-assisted workflows.
-
----
-
-### About
-
-Full Stack Developer focused on building real-world business applications — from traceability platforms to e-commerce evolution. I use AI-powered development tools daily to ship faster and write better code. Currently working on digital transformation projects at Giliycia.
-
----
-
-### Experience
-
-**Food Partners Patagonia** — Full Stack Developer
-
-End-to-end development of a traceability and business management platform for the fishing industry.
-
-- Designed and built a multi-module system covering critical business processes with real-time operational visibility
-- Backend architecture with Laravel: RESTful APIs, external integrations, JWT authentication, role-based access control
-- Frontend interfaces with React and TypeScript for operations and admin panels
-- Hexagonal architecture, relational database design, Docker-based infrastructure, and technical documentation
-
-**Giliycia** — Full Stack Developer *(current)*
-
-Building tools and platforms for digital transformation across multiple business sectors.
-
-- Magento platform evolution: feature development, technical debt reduction, and operational support
-- Internal applications for process automation, QR-based solutions, and shift management
-- Operational and logistics tooling with continuous integrations and improvements
-
----
-
-### GitHub Stats
+<h1 align="center">
+  <samp>
+    <strong>Máximo Ozonas</strong><br/>
+    <span style="font-size: 0.6em; color: #00E5FF;">// full stack developer</span>
+  </samp>
+</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=maxiozonas&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <samp style="color: #8B949E;">
+    building real things for real businesses · bahía blanca 🇦🇷<br/>
+    3+ years · AI-assisted workflows · shipping fast
+  </samp>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/maximoozonas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:maxiozonas10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/maxiozonas">
+    <img src="https://img.shields.io/badge/@maxiozonas-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
-### Tech Stack
+## `>_ whoami`
 
-**Backend**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+<table><tr><td>
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+```yaml
+name: Máximo Ozonas
+role: Full Stack Developer
+company: Giliycia
+location: Bahía Blanca, Argentina
+education: University Technician in Programming
 
-**Platforms & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Magento](https://img.shields.io/badge/Magento-EE4623?style=flat&logo=magento&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+focus:
+  - digital transformation platforms
+  - e-commerce & traceability systems
+  - ai-assisted development
+  - clean architecture & hexagonal patterns
 
----
+philosophy: "ship fast, write clean, learn always"
+```
 
-### AI & Developer Tools
-
-I integrate AI into my daily development workflow to improve code quality, accelerate delivery, and explore better architectural decisions.
-
-![OpenCode](https://img.shields.io/badge/OpenCode-AI%20Powered-6E40C9?style=flat&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-AI%20Assistant-191919?style=flat&logo=claude&logoColor=white)
+</td></tr></table>
 
 ---
 
-### Contact
+## `>_ experience`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maximoozonas-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximoozonas)
-[![Gmail](https://img.shields.io/badge/maxiozonas10@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maxiozonas10@gmail.com)
-[![Instagram](https://img.shields.io/badge/@maxiozonas-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/maxiozonas)
+<table><tr>
+<td width="50%" valign="top">
+
+### 🟢 Giliycia — *current*
+
+```
+Full Stack Developer
+```
+
+Digital transformation across multiple sectors:
+
+- **Magento** platform evolution & tech debt
+- Internal automation & QR solutions
+- Shift management & logistics tooling
+- Continuous integration & improvement
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 Food Partners Patagonia
+
+```
+Full Stack Developer
+```
+
+Traceability platform for the fishing industry:
+
+- **Laravel** backend — RESTful APIs, JWT, RBAC
+- **React + TypeScript** ops & admin panels
+- Hexagonal architecture & Docker infra
+- Multi-module system, real-time visibility
+
+</td>
+</tr></table>
+
+---
+
+## `>_ stack`
+
+<table><tr>
+<td width="33%" valign="top">
+
+#### ⚡ Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🛠️ Tools & Infra
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Magento](https://img.shields.io/badge/Magento-EE6623?style=flat-square&logo=magento&logoColor=white)
+
+</td>
+</tr></table>
+
+---
+
+## `>_ ai workflow`
+
+<table><tr><td>
+
+I integrate AI into my daily development flow — better code quality, faster delivery, smarter architecture decisions.
+
+![OpenCode](https://img.shields.io/badge/OpenCode-6E40C9?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=claude&logoColor=white)
+
+</td></tr></table>
+
+---
+
+## `>_ github stats`
+
+<p align="center">
+  <a href="https://github.com/maxiozonas">
+    <img height="170" src="https://github-readme-stats-juanirmarianis-projects.vercel.app/api?username=maxiozonas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&cache_seconds=21600" />
+  </a>
+  <a href="https://github.com/maxiozonas">
+    <img height="170" src="https://github-readme-stats-juanirmarianis-projects.vercel.app/api/top-langs/?username=maxiozonas&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&cache_seconds=21600&card_width=445" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/maxiozonas">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxiozonas&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&area_color=FF6B6B"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/maxiozonas">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxiozonas&theme=radical"/>
+  </a>
+</p>
+
+---
+
+## `>_ currently`
+
+<table><tr><td>
+
+```javascript
+{
+  "work":     "digital transformation @ giliycia",
+  "learning": ["AI dev workflows", "system architecture", "DevOps"],
+  "building": ["automation tools", "e-commerce", "CLI utilities"],
+  "motto":    "ship faster, write better"
+}
+```
+
+</td></tr></table>
+
+---
+
+<p align="center">
+  <samp style="color: #8B949E;">
+    <strong>let's connect</strong> — always open to collaborate and build cool stuff together ✌️
+  </samp>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/maximoozonas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:maxiozonas10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+  </a>
+  <a href="https://github.com/maxiozonas">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/maxiozonas">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maxiozonas&color=00E5FF&style=flat-square&label=profile+views" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d1117&height=120&section=footer&text=&fontSize=0" />
+</p>
