@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=M%C3%A1ximo%20Ozonas&fontSize=40&fontColor=00E5FF&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer&descSize=16&descAlignY=72&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d1117&height=200&section=header&text=M%C3%A1ximo%20Ozonas&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=15&descAlignY=68&descAlign=50" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## About
+## `>_ about`
 
 Full Stack Developer with 3+ years building production systems — from traceability platforms for the fishing industry to e-commerce evolution and internal automation tools. I use AI-powered development tools daily to ship faster and write better code.
 
@@ -19,34 +19,43 @@ Currently working on digital transformation projects at **Giliycia** in Bahía B
 
 ---
 
-## Experience
+## `>_ experience`
 
 | Company | Role | Period |
 |:---|:---|:---|
 | **Giliycia** | Full Stack Developer | *Present* |
 | **Food Partners Patagonia** | Full Stack Developer | *Previous* |
 
-### Giliycia — *Present*
+<table><tr>
+<td width="50%" valign="top">
 
-Building tools and platforms for digital transformation across multiple business sectors.
+### 🟢 Giliycia
 
-- Magento platform evolution: feature development, technical debt reduction
-- Internal applications for process automation and QR-based solutions
-- Shift management and operational logistics tooling
-- Continuous integrations and improvements
+Building tools for digital transformation:
 
-### Food Partners Patagonia
+- Magento platform evolution & tech debt reduction
+- Internal automation & QR-based solutions
+- Shift management & logistics tooling
+- Continuous integrations & improvements
 
-End-to-end development of a traceability and business management platform for the fishing industry.
+</td>
+<td width="50%" valign="top">
 
-- Multi-module system with real-time operational visibility
-- **Laravel** backend: RESTful APIs, external integrations, JWT auth, RBAC
-- **React + TypeScript** frontend for operations and admin panels
-- Hexagonal architecture, relational database design, Docker infrastructure
+### 🔵 Food Partners Patagonia
+
+Traceability platform for fishing industry:
+
+- Multi-module system, real-time visibility
+- **Laravel** backend — RESTful APIs, JWT, RBAC
+- **React + TypeScript** ops & admin panels
+- Hexagonal architecture, Docker infrastructure
+
+</td>
+</tr></table>
 
 ---
 
-## Tech Stack
+## `>_ stack`
 
 | Category | Technologies |
 |:---|:---|
@@ -58,7 +67,7 @@ End-to-end development of a traceability and business management platform for th
 
 ---
 
-## GitHub Stats
+## `>_ github stats`
 
 <p align="center">
   <a href="https://github.com/maxiozonas">
@@ -77,6 +86,23 @@ End-to-end development of a traceability and business management platform for th
 
 ---
 
+## `>_ currently`
+
+```javascript
+{
+  "work":     "digital transformation @ giliycia",
+  "learning": ["AI dev workflows", "system architecture", "DevOps"],
+  "building": ["automation tools", "e-commerce", "CLI utilities"],
+  "motto":    "ship faster, write better"
+}
+```
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maxiozonas&color=00E5FF&style=flat-square&label=profile+views" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d1117&height=100&section=footer&text=&fontSize=0" />
 </p>
