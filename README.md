@@ -21,16 +21,18 @@
 
 <table>
 <tr>
-<td width="80" valign="top"><sup>present</sup></td>
-<td>
+<td width="12" valign="top" style="background: linear-gradient(#FF6B6B, #FF6B6B); border-radius: 6px;"></td>
+<td valign="top">
 
-**Giliycia** · Full Stack Developer
+<strong>Giliycia</strong> &nbsp;<sup style="color:#FF6B6B;">● present</sup><br/>
+<sup>Full Stack Developer · Digital Transformation</sup>
 
-Building tools and platforms for digital transformation across multiple business sectors.
+<br/>
 
 - Magento platform evolution: feature development, technical debt reduction
 - Internal applications for process automation and QR-based solutions
 - Shift management and operational logistics tooling
+- Continuous integrations and improvements
 
 </td>
 </tr>
@@ -38,14 +40,15 @@ Building tools and platforms for digital transformation across multiple business
 
 <table>
 <tr>
-<td width="80" valign="top"><sup>previous</sup></td>
-<td>
+<td width="12" valign="top" style="background: linear-gradient(#4493f8, #4493f8); border-radius: 6px;"></td>
+<td valign="top">
 
-**Food Partners Patagonia** · Full Stack Developer
+<strong>Food Partners Patagonia</strong> &nbsp;<sup style="color:#4493f8;">● previous</sup><br/>
+<sup>Full Stack Developer · Fishing Industry</sup>
 
-End-to-end development of a traceability platform for the fishing industry.
+<br/>
 
-- Multi-module system with real-time operational visibility
+- Multi-module traceability system with real-time operational visibility
 - **Laravel** backend: RESTful APIs, JWT auth, RBAC, external integrations
 - **React + TypeScript** frontend for operations and admin panels
 - Hexagonal architecture, relational database design, Docker infrastructure
@@ -58,28 +61,51 @@ End-to-end development of a traceability platform for the fishing industry.
 
 ### stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Backend** &nbsp;🔴
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-&nbsp;
+
+</td>
+<td width="50%" valign="top">
+
+**Frontend** &nbsp;🟣
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-&nbsp;
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Infra & Tools** &nbsp;🟡
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Magento](https://img.shields.io/badge/Magento-EE6623?style=flat-square&logo=magento&logoColor=white)
-&nbsp;
+
+</td>
+<td width="50%" valign="top">
+
+**AI Workflow** &nbsp;🟢
+
 ![OpenCode](https://img.shields.io/badge/OpenCode-6E40C9?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=claude&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
