@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # Máximo Ozonas
@@ -18,69 +18,37 @@ Bahía Blanca, Buenos Aires 🇦🇷
 
 ## 👋 About Me
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👤 Who I Am
-
 ```yaml
 name: Máximo Ozonas
 role: Full Stack Developer / Development Lead
 company: Giliycia
-location: Bahía Blanca, Argentina 🇦🇷
+location: Bahía Blanca, Argentina
 education: University Technician in Programming
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ What Drives Me
-
-```yaml
 focus:
-  - Real-world business applications
-  - Internal systems & process automation
-  - Clean architecture & scalable solutions
-  - AI-assisted development workflows
-  - Ship fast, write clean, improve constantly
+  - Business-focused software
+  - Internal systems & automation
+  - APIs & integrations
+  - Clean architecture
+  - AI-assisted development
 ```
 
-</td>
-</tr>
-</table>
-</div>
+Full Stack Developer with **3+ years of experience** building production systems, internal tools and business applications.
 
-Full Stack Developer with **3+ years of experience** building production systems, internal tools and business-focused applications.
-
-I currently work as **Development Lead at Giliycia**, leading and building digital transformation projects, internal automation tools, logistics solutions, integrations and scalable systems that improve real business operations.
-
-I use AI-powered development tools as part of my daily workflow to move faster, improve code quality and design better technical solutions.
+Currently working as **Development Lead at Giliycia**, leading digital transformation projects, building internal solutions, improving operational workflows and integrating systems through custom software.
 
 ---
 
 ## 💼 Experience
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🟢 Giliycia — *Present*
 
 **Development Lead · Full Stack Developer**
 
 - Leading internal software development initiatives
-- Building tools for logistics, operations and process automation
+- Building logistics, operations and automation tools
 - Designing and maintaining business-critical applications
 - Integrating internal systems with external platforms and APIs
-- Improving workflows through custom software solutions
-- Supporting digital transformation across different company areas
-- Working with business teams to transform operational needs into technical solutions
-
-</td>
-<td width="50%" valign="top">
+- Turning business needs into scalable technical solutions
 
 ### 🔵 Food Partners Patagonia
 
@@ -89,15 +57,8 @@ I use AI-powered development tools as part of my daily workflow to move faster, 
 - Built a multi-module traceability and ERP system
 - Developed **Laravel** backend with REST APIs, JWT and RBAC
 - Created operational and admin panels with **React + TypeScript**
-- Applied hexagonal architecture and clean code principles
-- Worked with Docker-based development environments
-- Designed systems for production, traceability and export workflows
-- Built tools to support processes from fishing operations to final export
-
-</td>
-</tr>
-</table>
-</div>
+- Applied hexagonal architecture, Docker and clean code practices
+- Supported workflows from production to export operations
 
 ---
 
@@ -141,14 +102,14 @@ I use AI-powered development tools as part of my daily workflow to move faster, 
 
 <div align="center">
 
-| 💻 **Technical** | 🤝 **Professional** |
+| Technical | Professional |
 |:---:|:---:|
 | Full Stack Development | Development Leadership |
-| Laravel & React Applications | Problem Solving |
-| RESTful APIs & Integrations | Effective Communication |
+| Laravel & React | Problem Solving |
+| REST APIs & Integrations | Communication |
 | Hexagonal Architecture | Team Collaboration |
-| Database Design | Business Process Understanding |
-| Docker & Linux Environments | Continuous Learning |
+| Database Design | Business Understanding |
+| Docker & Linux | Continuous Learning |
 | AI-Assisted Workflows | Digital Transformation |
 
 </div>
@@ -162,66 +123,17 @@ const currentlyWorkingOn = {
   work: "Leading development and digital transformation projects at Giliycia",
   building: [
     "Internal business applications",
-    "Logistics and operations tools",
+    "Logistics tools",
     "Automation systems",
-    "API integrations",
-    "AI-assisted development workflows"
+    "API integrations"
   ],
   learning: [
     "System Architecture",
     "DevOps",
     "Scalable Backend Design",
     "AI Engineering"
-  ],
-  mindset: "Build useful software, solve real problems, keep improving."
+  ]
 };
-```
-
----
-
-## 🚀 What I Like Building
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🧩 Internal Systems
-
-Tools that help companies organize, automate and improve daily operations.
-
-</td>
-<td width="33%" align="center">
-
-### 🔗 Integrations
-
-APIs and workflows that connect platforms, services and business processes.
-
-</td>
-<td width="33%" align="center">
-
-### ⚙️ Scalable Apps
-
-Maintainable applications designed with clean architecture and long-term growth in mind.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🧠 Development Approach
-
-```yaml
-principles:
-  - Understand the business problem before writing code
-  - Build simple solutions that can scale over time
-  - Keep systems maintainable and easy to evolve
-  - Automate repetitive tasks whenever possible
-  - Use AI tools to accelerate development without losing technical judgment
 ```
 
 ---
@@ -238,12 +150,6 @@ principles:
 
 </div>
 
----
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=maxiozonas&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-</div>
-````
 
