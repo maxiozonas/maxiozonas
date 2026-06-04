@@ -1,8 +1,9 @@
+````md
 <div align="center">
 
 # Máximo Ozonas
 
-**Full Stack Developer** · University Technician in Programming
+**Full Stack Developer** · **Development Lead** · University Technician in Programming
 
 Bahía Blanca, Buenos Aires 🇦🇷
 
@@ -23,9 +24,10 @@ Bahía Blanca, Buenos Aires 🇦🇷
 <td width="50%" valign="top">
 
 ### 👤 Who I Am
+
 ```yaml
 name: Máximo Ozonas
-role: Full Stack Developer
+role: Full Stack Developer / Development Lead
 company: Giliycia
 location: Bahía Blanca, Argentina 🇦🇷
 education: University Technician in Programming
@@ -35,12 +37,14 @@ education: University Technician in Programming
 <td width="50%" valign="top">
 
 ### ⚡ What Drives Me
+
 ```yaml
 focus:
   - Real-world business applications
+  - Internal systems & process automation
+  - Clean architecture & scalable solutions
   - AI-assisted development workflows
-  - Clean architecture & hexagonal patterns
-  - Ship fast, write clean, learn always
+  - Ship fast, write clean, improve constantly
 ```
 
 </td>
@@ -48,7 +52,11 @@ focus:
 </table>
 </div>
 
-Full Stack Developer with **3+ years** building production systems — from traceability platforms for the fishing industry to e-commerce evolution and internal automation tools. I use AI-powered development tools daily to ship faster and write better code. Currently driving digital transformation projects at **Giliycia**.
+Full Stack Developer with **3+ years of experience** building production systems, internal tools and business-focused applications.
+
+I currently work as **Development Lead at Giliycia**, leading and building digital transformation projects, internal automation tools, logistics solutions, integrations and scalable systems that improve real business operations.
+
+I use AI-powered development tools as part of my daily workflow to move faster, improve code quality and design better technical solutions.
 
 ---
 
@@ -60,23 +68,31 @@ Full Stack Developer with **3+ years** building production systems — from trac
 <td width="50%" valign="top">
 
 ### 🟢 Giliycia — *Present*
-**Full Stack Developer · Digital Transformation**
 
-- Magento platform evolution & technical debt reduction
-- Internal automation apps & QR-based solutions
-- Shift management & logistics tooling
-- Continuous integrations & improvements
+**Development Lead · Full Stack Developer**
+
+- Leading internal software development initiatives
+- Building tools for logistics, operations and process automation
+- Designing and maintaining business-critical applications
+- Integrating internal systems with external platforms and APIs
+- Improving workflows through custom software solutions
+- Supporting digital transformation across different company areas
+- Working with business teams to transform operational needs into technical solutions
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔵 Food Partners Patagonia
+
 **Full Stack Developer · Fishing Industry**
 
-- Multi-module traceability system
-- **Laravel** backend: REST APIs, JWT, RBAC
-- **React + TypeScript** ops & admin panels
-- Hexagonal architecture, Docker infrastructure
+- Built a multi-module traceability and ERP system
+- Developed **Laravel** backend with REST APIs, JWT and RBAC
+- Created operational and admin panels with **React + TypeScript**
+- Applied hexagonal architecture and clean code principles
+- Worked with Docker-based development environments
+- Designed systems for production, traceability and export workflows
+- Built tools to support processes from fishing operations to final export
 
 </td>
 </tr>
@@ -90,6 +106,7 @@ Full Stack Developer with **3+ years** building production systems — from trac
 <div align="center">
 
 ### Backend
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -97,20 +114,24 @@ Full Stack Developer with **3+ years** building production systems — from trac
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Database & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Magento](https://img.shields.io/badge/Magento-EE4623?style=for-the-badge&logo=magento&logoColor=white)
 
 ### AI & Developer Tools
-![OpenCode](https://img.shields.io/badge/OpenCode-6E40C9?style=for-the-badge)
+
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=claude&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-6E40C9?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -122,12 +143,13 @@ Full Stack Developer with **3+ years** building production systems — from trac
 
 | 💻 **Technical** | 🤝 **Professional** |
 |:---:|:---:|
-| Full Stack Development | Teamwork |
-| Hexagonal Architecture | Problem Solving |
+| Full Stack Development | Development Leadership |
+| Laravel & React Applications | Problem Solving |
 | RESTful APIs & Integrations | Effective Communication |
-| AI-Assisted Workflows | Adaptability |
-| Database Design | Continuous Learning |
-| Docker & DevOps | Digital Transformation |
+| Hexagonal Architecture | Team Collaboration |
+| Database Design | Business Process Understanding |
+| Docker & Linux Environments | Continuous Learning |
+| AI-Assisted Workflows | Digital Transformation |
 
 </div>
 
@@ -137,48 +159,70 @@ Full Stack Developer with **3+ years** building production systems — from trac
 
 ```javascript
 const currentlyWorkingOn = {
-  💼 work: "Digital transformation & platform evolution at Giliycia",
-  📚 learning: ["AI-Assisted Development", "System Architecture", "DevOps"],
-  🔨 building: ["Automation Tools", "E-Commerce Platforms", "CLI Utilities"],
-  🤖 workflow: "AI-powered tools for faster & cleaner code"
+  work: "Leading development and digital transformation projects at Giliycia",
+  building: [
+    "Internal business applications",
+    "Logistics and operations tools",
+    "Automation systems",
+    "API integrations",
+    "AI-assisted development workflows"
+  ],
+  learning: [
+    "System Architecture",
+    "DevOps",
+    "Scalable Backend Design",
+    "AI Engineering"
+  ],
+  mindset: "Build useful software, solve real problems, keep improving."
 };
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I Like Building
 
 <div align="center">
 
-<a href="https://github.com/maxiozonas">
-  <img height="180" src="https://github-readme-stats-juanirmarianis-projects.vercel.app/api?username=maxiozonas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&cache_seconds=21600" />
-</a>
+<table>
+<tr>
+<td width="33%" align="center">
 
-<a href="https://github.com/maxiozonas">
-  <img height="180" src="https://github-readme-stats-juanirmarianis-projects.vercel.app/api/top-langs/?username=maxiozonas&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&cache_seconds=21600&card_width=445" />
-</a>
+### 🧩 Internal Systems
 
-</div>
+Tools that help companies organize, automate and improve daily operations.
 
-<br/>
+</td>
+<td width="33%" align="center">
 
-<div align="center">
+### 🔗 Integrations
 
-<a href="https://github.com/maxiozonas">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxiozonas&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&area_color=FF6B6B"/>
-</a>
+APIs and workflows that connect platforms, services and business processes.
 
-</div>
+</td>
+<td width="33%" align="center">
 
-<br/>
+### ⚙️ Scalable Apps
 
-<div align="center">
+Maintainable applications designed with clean architecture and long-term growth in mind.
 
-<a href="https://github.com/maxiozonas">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxiozonas&theme=radical"/>
-</a>
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+## 🧠 Development Approach
+
+```yaml
+principles:
+  - Understand the business problem before writing code
+  - Build simple solutions that can scale over time
+  - Keep systems maintainable and easy to evolve
+  - Automate repetitive tasks whenever possible
+  - Use AI tools to accelerate development without losing technical judgment
+```
 
 ---
 
@@ -186,7 +230,7 @@ const currentlyWorkingOn = {
 
 <div align="center">
 
-**Open to collaborate and build cool stuff together!**
+**Open to collaborate, learn and build useful software.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximoozonas)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxiozonas10@gmail.com)
@@ -201,3 +245,5 @@ const currentlyWorkingOn = {
 ![Profile Views](https://komarev.com/ghpvc/?username=maxiozonas&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
+````
+
