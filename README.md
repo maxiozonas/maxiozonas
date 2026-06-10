@@ -1,10 +1,12 @@
 ```text
+❯ npx maxiozonas@latest
+
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│   ✻ Welcome to maxiozonas v3.0                               │
+│   ✻ Welcome to maxiozonas v3.0                              |
 │                                                              │
 │   Full Stack Developer · Development Lead                    │
-│   Bahía Blanca, Argentina 🇦🇷                                 │
+│   Bahía Blanca, Argentina (AR)                               │
 │                                                              │
 │   /help for help · /connect to reach out                     │
 │                                                              │
@@ -22,7 +24,7 @@
 name: Máximo Ozonas
 role: Full Stack Developer / Development Lead
 company: Giliycia
-location: Bahía Blanca, Argentina
+location: Bahía Blanca, Argentina 🇦🇷
 education: University Technician in Programming
 experience: 3+ years building production systems
 focus: [business software, internal systems, automation, apis, clean architecture, ai-assisted dev]
@@ -72,7 +74,7 @@ tools     = ["docker", "linux", "git"]
 [agents]
 claude-code = { status = "⏺ connected", usage = "daily" }
 opencode    = { status = "⏺ connected", usage = "daily" }
-codex    = { status = "⏺ connected", usage = "daily" }
+chatgpt     = { status = "⏺ connected", usage = "daily" }
 ```
 
 ### `❯ maxiozonas --skills`
@@ -117,6 +119,5 @@ channels:
 ❯ exit
 ✻ Thanks for visiting · session ended
 ```
-
 
 
