@@ -35,10 +35,6 @@
 
 <br/><br/>
 
-<img src="./assets/languages.svg" width="820" alt="languages" />
-
-<br/><br/>
-
 <img src="./assets/connect.svg" width="820" alt="connect" />
 
 </div>
