@@ -1,123 +1,45 @@
-```text
-❯ npx maxiozonas@latest
+<div align="center">
 
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   ✻ Welcome to maxiozonas v3.0                              |
-│                                                              │
-│   Full Stack Developer · Development Lead                    │
-│   Bahía Blanca, Argentina (AR)                               │
-│                                                              │
-│   /help for help · /connect to reach out                     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+<img src="./assets/header.svg" width="820" alt="Máximo Ozonas — Development Lead / Full Stack Developer" />
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-maximoozonas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximoozonas)
-[![GitHub](https://img.shields.io/badge/github-maxiozonas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maxiozonas)
-[![Email](https://img.shields.io/badge/email-maxiozonas10%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maxiozonas10@gmail.com)
-[![Instagram](https://img.shields.io/badge/instagram-maxiozonas-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/maxiozonas)
+<br/><br/>
 
-### `❯ whoami`
+<a href="https://linkedin.com/in/maximoozonas"><img src="https://img.shields.io/badge/linkedin-maximoozonas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/maxiozonas"><img src="https://img.shields.io/badge/github-maxiozonas-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:maxiozonas10@gmail.com"><img src="https://img.shields.io/badge/email-maxiozonas10%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://instagram.com/maxiozonas"><img src="https://img.shields.io/badge/instagram-maxiozonas-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-```yaml
-name: Máximo Ozonas
-role: Full Stack Developer / Development Lead
-company: Giliycia
-location: Bahía Blanca, Argentina 🇦🇷
-education: University Technician in Programming
-experience: 3+ years building production systems
-focus: [business software, internal systems, automation, apis, clean architecture, ai-assisted dev]
-```
+<br/><br/>
 
-> Full Stack Developer with **3+ years of experience** building production systems, internal tools and business applications. Currently leading digital transformation projects at **Giliycia** — building internal solutions, improving operational workflows and integrating systems through custom software.
+<img src="./assets/whoami.svg" width="820" alt="whoami — profile summary" />
 
-### `❯ git log --experience`
+<br/><br/>
 
-```diff
-@@ commit a3f9c21 · Giliycia · Development Lead / Full Stack Developer @@
-+ HEAD -> main (present)
-+ Leading internal software development initiatives
-+ Building logistics, operations and automation tools
-+ Designing and maintaining business-critical applications
-+ Integrating internal systems with external platforms and APIs
-+ Turning business needs into scalable technical solutions
+<img src="./assets/experience.svg" width="820" alt="git log — professional experience" />
 
-@@ commit 7b2e0d8 · Food Partners Patagonia · Full Stack Developer @@
-! Fishing industry
-+ Built a multi-module traceability and ERP system
-+ Laravel backend with REST APIs, JWT and RBAC
-+ Operational and admin panels with React + TypeScript
-+ Hexagonal architecture, Docker and clean code practices
-+ Supported workflows from production to export operations
-```
+<br/><br/>
 
-### `❯ cat ~/.maxiozonas/stack.toml`
+<img src="./assets/projects.svg" width="820" alt="freelance projects" />
 
-```toml
-[backend]
-laravel  = "primary weapon"
-php      = "daily driver"
-node     = "apis & tooling"
-python   = "scripts & automation"
-java     = "when duty calls"
+<br/><br/>
 
-[frontend]
-react      = "primary weapon"
-typescript = "non-negotiable"
-nextjs     = "production apps"
+<img src="./assets/stack.svg" width="820" alt="tech stack" />
 
-[infra]
-databases = ["postgresql", "mysql"]
-tools     = ["docker", "linux", "git"]
+<br/><br/>
 
-[agents]
-claude-code = { status = "⏺ connected", usage = "daily" }
-opencode    = { status = "⏺ connected", usage = "daily" }
-chatgpt     = { status = "⏺ connected", usage = "daily" }
-```
+<img src="./assets/todos.svg" width="820" alt="currently working on / learning" />
 
-### `❯ maxiozonas --skills`
+<br/><br/>
 
-```diff
-@@ technical @@
-+ full-stack development        + rest apis & integrations
-+ laravel & react               + hexagonal architecture
-+ database design               + docker & linux
-+ ai-assisted workflows
+<img src="./assets/education.svg" width="820" alt="education" />
 
-@@ professional @@
-+ development leadership        + business understanding
-+ problem solving               + communication
-+ team collaboration            + digital transformation
-```
+<br/><br/>
 
-### `❯ ps aux | grep maxiozonas`
+<img src="./assets/languages.svg" width="820" alt="languages" />
 
-```diff
-@@ PID · STATUS · TASK @@
-+ 001  running   Leading dev & digital transformation @ Giliycia
-+ 002  building  Internal business applications
-+ 003  building  Logistics & automation tools
-+ 004  building  API integrations
-! 005  learning  System Architecture
-! 006  learning  DevOps & Scalable Backend Design
-! 007  learning  AI Engineering
-```
+<br/><br/>
 
-### `❯ /connect`
+<img src="./assets/connect.svg" width="820" alt="connect" />
 
-```yaml
-status: open to collaborate, learn and build useful software
-channels:
-  linkedin: linkedin.com/in/maximoozonas
-  email: maxiozonas10@gmail.com
-  github: github.com/maxiozonas
-```
-
-```text
-❯ exit
-✻ Thanks for visiting · session ended
-```
-
+</div>
 
