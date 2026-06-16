@@ -77,9 +77,9 @@
     <text x="30" y="704" font-size="15"><tspan fill="#5fae66">&#10003;</tspan><tspan fill="#7d8794" dx="12">Lead dev &amp; digital transformation @ Giliycia</tspan></text>
     <text x="30" y="726" font-size="15"><tspan fill="#5fae66">&#10003;</tspan><tspan fill="#7d8794" dx="12">Build &amp; maintain internal business applications</tspan></text>
     <text x="30" y="748" font-size="15"><tspan fill="#5fae66">&#10003;</tspan><tspan fill="#7d8794" dx="12">Ship the Food Partners ERP to production</tspan></text>
-    <text x="30" y="770" font-size="15"><tspan fill="#d99a4e">&#9675;</tspan><tspan fill="#e9eef5" dx="12">System architecture at scale</tspan><tspan fill="#7d8794" dx="8">&#183; in progress</tspan></text>
-    <text x="30" y="792" font-size="15"><tspan fill="#d99a4e">&#9675;</tspan><tspan fill="#e9eef5" dx="12">DevOps &amp; scalable backend design</tspan><tspan fill="#7d8794" dx="8">&#183; in progress</tspan></text>
-    <text x="30" y="814" font-size="15"><tspan fill="#d99a4e">&#9675;</tspan><tspan fill="#e9eef5" dx="12">AI engineering</tspan><tspan fill="#7d8794" dx="8">&#183; learning</tspan></text>
+    <text x="30" y="770" font-size="15"><tspan fill="#5fae66">&#10003;</tspan><tspan fill="#7d8794" dx="12">System architecture at scale</tspan></text>
+    <text x="30" y="792" font-size="15"><tspan fill="#5fae66">&#10003;</tspan><tspan fill="#7d8794" dx="12">DevOps &amp; scalable backend design</tspan></text>
+    <text x="30" y="814" font-size="15"><tspan fill="#5fae66">&#10003;</tspan><tspan fill="#7d8794" dx="12">AI engineering</tspan></text>
   </g>
 
   <!-- connect -->
