@@ -67,7 +67,7 @@
     <text x="64" y="582" font-size="15"><tspan fill="#7fa6c9">front</tspan><tspan fill="#c9d3df" x="150">react &#183; next.js &#183; flutter &#183; tailwind &#183; vite</tspan></text>
     <text x="64" y="604" font-size="15"><tspan fill="#7fa6c9">back</tspan><tspan fill="#c9d3df" x="150">laravel &#183; node.js &#183; spring-boot &#183; RESTful</tspan></text>
     <text x="64" y="626" font-size="15"><tspan fill="#7fa6c9">data/ops</tspan><tspan fill="#c9d3df" x="150">postgresql &#183; mysql &#183; docker &#183; ci/cd &#183; aws &#183; linux</tspan></text>
-    <text x="64" y="648" font-size="15"><tspan fill="#7fa6c9">agents</tspan><tspan fill="#c9d3df" x="150">claude-code &#183; opencode &#183; chatgpt</tspan><tspan fill="#5fae66"> &#183; daily</tspan></text>
+    <text x="64" y="648" font-size="15"><tspan fill="#7fa6c9">agents</tspan><tspan fill="#c9d3df" x="150">claude-code &#183; opencode &#183; codex</tspan><tspan fill="#5fae66"> &#183; daily</tspan></text>
   </g>
 
   <!-- todos -->
