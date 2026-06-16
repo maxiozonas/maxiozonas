@@ -31,8 +31,8 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.35s" fill="freeze"/>
     <text x="28" y="128" font-size="15"><tspan fill="#4f5862">&gt;</tspan><tspan fill="#ffffff" dx="9">whoami</tspan></text>
-    <text x="28" y="150" font-size="15"><tspan fill="#5fae66">&#9899;</tspan><tspan fill="#c9d3df" dx="10">Read(~/.maxiozonas/whoami.yaml)</tspan></text>
-    <text x="44" y="172" font-size="15"><tspan fill="#5b6470">&#9180;</tspan><tspan fill="#e9eef5" dx="10">M&#225;ximo Ozonas &#183; Development Lead &#183; Full Stack Developer</tspan></text>
+    <text x="46" y="150" font-size="15" fill="#7d8794">Read(~/.maxiozonas/whoami.yaml)</text>
+    <text x="64" y="172" font-size="15" fill="#e9eef5">M&#225;ximo Ozonas &#183; Development Lead &#183; Full Stack Developer</text>
     <text x="64" y="194" font-size="15" fill="#a9c0ad">3+ yrs shipping production ERPs &amp; internal systems &#183; UTN grad</text>
     <text x="64" y="216" font-size="15" fill="#a9c0ad">Bah&#237;a Blanca, AR &#183; Laravel &#183; React &#183; Next.js &#183; TypeScript &#183; Docker</text>
   </g>
@@ -41,8 +41,8 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.35s" fill="freeze"/>
     <text x="28" y="250" font-size="15"><tspan fill="#4f5862">&gt;</tspan><tspan fill="#ffffff" dx="9">git log --oneline --decorate</tspan></text>
-    <text x="28" y="272" font-size="15"><tspan fill="#5fae66">&#9899;</tspan><tspan fill="#c9d3df" dx="10">Bash(git log experience)</tspan></text>
-    <text x="44" y="294" font-size="15"><tspan fill="#5b6470">&#9180;</tspan><tspan fill="#e0b483" dx="10" font-weight="bold">a3f9c21</tspan><tspan fill="#aeb9c6"> Giliycia SRL &#183; Development Lead &#8212; Oct 2025 &#8594; now (HEAD)</tspan></text>
+    <text x="46" y="272" font-size="15" fill="#7d8794">Bash(git log experience)</text>
+    <text x="64" y="294" font-size="15"><tspan fill="#e0b483" font-weight="bold">a3f9c21</tspan><tspan fill="#aeb9c6"> Giliycia SRL &#183; Development Lead &#8212; Oct 2025 &#8594; now (HEAD)</tspan></text>
     <text x="64" y="316" font-size="15"><tspan fill="#5fae66">+</tspan><tspan fill="#a9c0ad" dx="8">Founded &amp; lead the new IT area &#183; standards &#183; architecture &#183; roadmap</tspan></text>
     <text x="64" y="338" font-size="15"><tspan fill="#5fae66">+</tspan><tspan fill="#a9c0ad" dx="8">Full lifecycle: discovery &#8594; design &#8594; ship &#8594; prod &#183; CI/CD &#183; Docker</tspan></text>
     <text x="64" y="360" font-size="15"><tspan fill="#e0b483" font-weight="bold">7b2e0d8</tspan><tspan fill="#aeb9c6"> Food Partners Patagonia &#183; Software Developer &#8212; Sep 2025 &#8594; now</tspan></text>
@@ -54,41 +54,41 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.25s" dur="0.35s" fill="freeze"/>
     <text x="28" y="438" font-size="15"><tspan fill="#4f5862">&gt;</tspan><tspan fill="#ffffff" dx="9">ls ~/projects/freelance</tspan></text>
-    <text x="28" y="460" font-size="15"><tspan fill="#5fae66">&#9899;</tspan><tspan fill="#e9eef5" dx="10">inspira-ingenieria/</tspan><tspan fill="#7d8794">  Next.js &#183; Prisma &#183; Cloudinary &#8212; site + admin panel</tspan></text>
-    <text x="28" y="482" font-size="15"><tspan fill="#5fae66">&#9899;</tspan><tspan fill="#e9eef5" dx="10">madryn-buceo/</tspan><tspan fill="#7d8794">        Next.js &#183; Spring Boot &#8212; site + booking backend</tspan></text>
+    <text x="46" y="460" font-size="15"><tspan fill="#e9eef5">inspira-ingenieria/</tspan><tspan fill="#7d8794">  Next.js &#183; Prisma &#183; Cloudinary &#8212; site + admin panel</tspan></text>
+    <text x="46" y="482" font-size="15"><tspan fill="#e9eef5">madryn-buceo/</tspan><tspan fill="#7d8794">        Next.js &#183; Spring Boot &#8212; site + booking backend</tspan></text>
   </g>
 
   <!-- stack -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.35s" fill="freeze"/>
     <text x="28" y="516" font-size="15"><tspan fill="#4f5862">&gt;</tspan><tspan fill="#ffffff" dx="9">cat stack.toml</tspan></text>
-    <text x="28" y="538" font-size="15"><tspan fill="#5fae66">&#9899;</tspan><tspan fill="#c9d3df" dx="10">Read(stack.toml)</tspan></text>
-    <text x="44" y="560" font-size="15"><tspan fill="#5b6470">&#9180;</tspan><tspan fill="#7fa6c9" dx="10">lang</tspan><tspan fill="#c9d3df" x="150">typescript &#183; php &#183; java &#183; python &#183; sql</tspan></text>
+    <text x="46" y="538" font-size="15" fill="#7d8794">Read(stack.toml)</text>
+    <text x="64" y="560" font-size="15"><tspan fill="#7fa6c9">lang</tspan><tspan fill="#c9d3df" x="150">typescript &#183; php &#183; java &#183; python &#183; sql</tspan></text>
     <text x="64" y="582" font-size="15"><tspan fill="#7fa6c9">front</tspan><tspan fill="#c9d3df" x="150">react &#183; next.js &#183; flutter &#183; tailwind &#183; vite</tspan></text>
     <text x="64" y="604" font-size="15"><tspan fill="#7fa6c9">back</tspan><tspan fill="#c9d3df" x="150">laravel &#183; node.js &#183; spring-boot &#183; RESTful</tspan></text>
     <text x="64" y="626" font-size="15"><tspan fill="#7fa6c9">data/ops</tspan><tspan fill="#c9d3df" x="150">postgresql &#183; mysql &#183; docker &#183; ci/cd &#183; aws &#183; linux</tspan></text>
-    <text x="64" y="648" font-size="15"><tspan fill="#7fa6c9">agents</tspan><tspan fill="#c9d3df" x="150">claude-code &#183; opencode &#183; chatgpt</tspan><tspan fill="#5fae66"> &#9679; daily</tspan></text>
+    <text x="64" y="648" font-size="15"><tspan fill="#7fa6c9">agents</tspan><tspan fill="#c9d3df" x="150">claude-code &#183; opencode &#183; chatgpt</tspan><tspan fill="#5fae66"> &#183; daily</tspan></text>
   </g>
 
   <!-- todos -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.95s" dur="0.35s" fill="freeze"/>
     <text x="28" y="682" font-size="15"><tspan fill="#4f5862">&gt;</tspan><tspan fill="#ffffff" dx="9">Update Todos</tspan></text>
-    <text x="28" y="704" font-size="15"><tspan fill="#e0785f">&#9746;</tspan><tspan fill="#7d8794" dx="10">Lead dev &amp; digital transformation @ Giliycia</tspan></text>
-    <text x="28" y="726" font-size="15"><tspan fill="#e0785f">&#9746;</tspan><tspan fill="#7d8794" dx="10">Build &amp; maintain internal business applications</tspan></text>
-    <text x="28" y="748" font-size="15"><tspan fill="#e0785f">&#9746;</tspan><tspan fill="#7d8794" dx="10">Ship the Food Partners ERP to production</tspan></text>
-    <text x="28" y="770" font-size="15"><tspan fill="#5b6470">&#9744;</tspan><tspan fill="#c9d3df" dx="10">System architecture at scale</tspan></text>
-    <text x="28" y="792" font-size="15"><tspan fill="#5b6470">&#9744;</tspan><tspan fill="#c9d3df" dx="10">DevOps &amp; scalable backend design</tspan></text>
-    <text x="28" y="814" font-size="15"><tspan fill="#5b6470">&#9744;</tspan><tspan fill="#c9d3df" dx="10">AI engineering</tspan></text>
+    <text x="30" y="704" font-size="15"><tspan fill="#5fae66">&#10003;</tspan><tspan fill="#7d8794" dx="12">Lead dev &amp; digital transformation @ Giliycia</tspan></text>
+    <text x="30" y="726" font-size="15"><tspan fill="#5fae66">&#10003;</tspan><tspan fill="#7d8794" dx="12">Build &amp; maintain internal business applications</tspan></text>
+    <text x="30" y="748" font-size="15"><tspan fill="#5fae66">&#10003;</tspan><tspan fill="#7d8794" dx="12">Ship the Food Partners ERP to production</tspan></text>
+    <text x="30" y="770" font-size="15"><tspan fill="#d99a4e">&#9675;</tspan><tspan fill="#e9eef5" dx="12">System architecture at scale</tspan><tspan fill="#7d8794" dx="8">&#183; in progress</tspan></text>
+    <text x="30" y="792" font-size="15"><tspan fill="#d99a4e">&#9675;</tspan><tspan fill="#e9eef5" dx="12">DevOps &amp; scalable backend design</tspan><tspan fill="#7d8794" dx="8">&#183; in progress</tspan></text>
+    <text x="30" y="814" font-size="15"><tspan fill="#d99a4e">&#9675;</tspan><tspan fill="#e9eef5" dx="12">AI engineering</tspan><tspan fill="#7d8794" dx="8">&#183; learning</tspan></text>
   </g>
 
   <!-- connect -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.35s" fill="freeze"/>
     <text x="28" y="848" font-size="15"><tspan fill="#4f5862">&gt;</tspan><tspan fill="#ffffff" dx="9">/connect</tspan></text>
-    <text x="28" y="870" font-size="15"><tspan fill="#5fae66">&#9899;</tspan><tspan fill="#7fa6c9" dx="10">email</tspan><tspan fill="#c9d3df" x="150">maxiozonas10@gmail.com</tspan></text>
-    <text x="64" y="892" font-size="15"><tspan fill="#7fa6c9">linkedin</tspan><tspan fill="#c9d3df" x="150">linkedin.com/in/maximoozonas</tspan></text>
-    <text x="64" y="914" font-size="15"><tspan fill="#7fa6c9">github</tspan><tspan fill="#c9d3df" x="150">github.com/maxiozonas</tspan></text>
+    <text x="46" y="870" font-size="15"><tspan fill="#7fa6c9">email</tspan><tspan fill="#c9d3df" x="150">maxiozonas10@gmail.com</tspan></text>
+    <text x="46" y="892" font-size="15"><tspan fill="#7fa6c9">linkedin</tspan><tspan fill="#c9d3df" x="150">linkedin.com/in/maximoozonas</tspan></text>
+    <text x="46" y="914" font-size="15"><tspan fill="#7fa6c9">github</tspan><tspan fill="#c9d3df" x="150">github.com/maxiozonas</tspan></text>
   </g>
 
   <!-- footer -->
