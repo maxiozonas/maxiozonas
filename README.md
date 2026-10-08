@@ -1,68 +1,17 @@
-<picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-header.svg" />
-  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.gif" />
-  <img src="./assets/profile-header.gif" width="1200" alt="Máximo Ozonas — Development Lead and Full Stack Developer. From business needs to software in production. Based in Bahía Blanca, Argentina." />
-</picture>
+<div align="center">
+  <a href="./PROFILE.md" title="Read my full profile as text">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/profile-dark-mobile.svg" />
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-dark.svg" />
+      <source media="(max-width: 600px)" srcset="./assets/profile-dark-mobile.gif" />
+      <img src="./assets/profile-dark.gif" width="1000" alt="Máximo Ozonas. Development Lead and Full Stack Developer in Bahía Blanca, Argentina. Experience: Gili / Giliycia SRL, technical leadership and business systems; Food Partners Patagonia via Xenova, a seafood ERP with production, traceability, exports, HR and an employee PWA. Projects: Catalejo Travel, Quinta Pata, Inspira Ingeniería and Madryn Buceo. Stack: React, Next.js, TypeScript, Laravel, PostgreSQL, MySQL, React Native, Expo, Flutter, Docker and CI/CD. UTN programming graduate, 2021–2024. Spanish native, English B1. Click to read the full profile as text." />
+    </picture>
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://maxiozonas.github.io/es/">Portfolio</a> &nbsp; / &nbsp;
-  <a href="https://linkedin.com/in/maximoozonas">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:maxiozonas10@gmail.com">Email</a> &nbsp; / &nbsp;
-  <a href="./CV_Maximo_Ozonas_EN.pdf">Read my CV</a>
+  <a href="https://maxiozonas.github.io/es/"><img src="./assets/link-portfolio.svg" width="160" height="43" alt="View my portfolio" /></a>
+  <a href="https://linkedin.com/in/maximoozonas"><img src="./assets/link-linkedin.svg" width="160" height="43" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:maxiozonas10@gmail.com"><img src="./assets/link-email.svg" width="160" height="43" alt="Email maxiozonas10@gmail.com" /></a>
+  <a href="./CV_Maximo_Ozonas_EN.pdf"><img src="./assets/link-cv.svg" width="160" height="43" alt="Read my CV in English (PDF)" /></a>
 </p>
-
-I build **web and mobile software for business operations**, combining full-stack development with technical leadership and project management. I work across requirements, architecture, implementation, deployment, and production maintenance.
-
-## Experience
-
-**Gili / Giliycia SRL · Development Lead** <sub>— Oct 2025–present</sub><br />
-Technical standards, architecture, and roadmap for internal business systems. I develop tools for order picking, logistics, freight settlement, B2B portals, showroom queues, ticketing, and catalog automation, with **Flexxus and Magento integrations**.
-
-**Food Partners Patagonia S.A. · Full Stack Developer, via Xenova** <sub>— Sep 2025–present</sub><br />
-A cross-functional ERP for seafood processing: **production, quality, inventory, and traceability from port to export**, plus HR and an employee self-service PWA. Built with **Laravel, React, and TypeScript**.
-
-<details>
-<summary>Inside the ERP</summary>
-
-- **Operations:** raw-material intake, weighing, processing, palletizing, orders, and container exports.
-- **Traceability:** lots and pallets, cold-storage maps, inter-plant transfers, and foreign-trade documentation.
-- **People:** personnel records, clock-ins, leave, approvals, PDF payslips, and internal communications.
-- **Architecture:** REST API, separate apps by business area, granular permissions, per-plant database selection, and real-time error monitoring.
-
-</details>
-
-## Selected projects
-
-Freelance work through **Xenova** <sub>— 2025–present</sub>
-
-| Project | What I built |
-| :--- | :--- |
-| **Catalejo Travel** | Travel experiences catalog, seasonal pricing, CMS, and WhatsApp inquiries. |
-| **Quinta Pata** | Pet healthcare enrollment, Excel imports, and verifiable QR membership credentials. |
-| **Inspira Ingeniería** | Corporate website with secure project and content administration. |
-| **Madryn Buceo** | Corporate website, reservations, and management backend, delivered using Scrum. |
-
-## Toolkit
-
-| Area | Technologies |
-| :--- | :--- |
-| **Web** | TypeScript, JavaScript, React, Next.js |
-| **Backend & data** | PHP, Laravel, PostgreSQL, MySQL, REST APIs |
-| **Mobile** | React Native, Expo, Flutter |
-| **Infrastructure** | Linux, VPS, Docker, Docker Compose, CI/CD, Git, AWS |
-
-<details>
-<summary>More tools, education & languages</summary>
-
-**Also work with:** Python, Java, C#, .NET, and Spring Boot.<br />
-**AI coding tools:** Claude Code, Codex, and OpenCode.
-
-**University Technical Degree in Programming** — Universidad Tecnológica Nacional (UTN), 2021–2024.<br />
-**Languages:** Spanish (native) · English (B1, intermediate).
-
-</details>
-
----
-
-Have a business process that could work better with software? **[Let's talk](mailto:maxiozonas10@gmail.com).**

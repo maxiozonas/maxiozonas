@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="1560" viewBox="0 0 640 1560" role="img" aria-labelledby="title desc" font-family="Bahnschrift, 'Trebuchet MS', Arial, sans-serif">
+<title id="title">Máximo Ozonas — Development Lead and Full Stack Developer</title>
+<desc id="desc">Business software, technical leadership, Gili and Food Partners Patagonia experience, four Xenova projects, web and mobile tools, UTN education, Spanish native and English B1. Full text is available in PROFILE.md.</desc>
+<rect x="0" y="0" width="640" height="1560" rx="14" fill="#111821"/>
+<rect x="0" y="0" width="640" height="252" rx="14" fill="#17212b"/>
+<text x="30" y="36" font-size="17" fill="#b1bdc9" font-weight="400" font-family="Consolas, 'Liberation Mono', monospace">maxiozonas / software + systems</text>
+<text x="28" y="110" font-size="57" fill="#f2f5f8" font-weight="600" >Máximo Ozonas</text>
+<text x="30" y="151" font-size="25" fill="#f2f5f8" font-weight="400" >Development Lead / Full Stack Developer</text>
+<text x="30" y="199" font-size="24" fill="#88cec9" font-weight="400" id="typed" font-family="Consolas, 'Liberation Mono', monospace">&gt; building business software</text>
+<rect id="cursor" x="435" y="181" width="11" height="24" fill="#88cec9"/>
+<text x="30" y="233" font-size="19" fill="#b1bdc9" font-weight="400" >Bahía Blanca, Argentina</text>
+<circle cx="560" cy="208" r="29" fill="none" stroke="#2c3c4b" stroke-width="2"/><g id="orbit" data-cx="560" data-cy="208"><path d="M560 179 A29 29 0 0 1 589 208" fill="none" stroke="#88cec9" stroke-width="3" stroke-linecap="round"/><circle cx="560" cy="179" r="5" fill="#88cec9"/></g>
+<path d="M30 252h580" fill="none" stroke="#2c3c4b"/>
+<text x="30" y="294" font-size="28" fill="#f2f5f8" font-weight="600" >Experience</text>
+<rect x="24" y="315" width="592" height="177" rx="10" fill="#19232e"/>
+<text x="44" y="354" font-size="29" fill="#f2f5f8" font-weight="600" >Gili / Giliycia SRL</text>
+<text x="44" y="385" font-size="21" fill="#b1bdc9" font-weight="400" >Oct 2025–present</text>
+<text x="44" y="420" font-size="27" fill="#88cec9" font-weight="400" >Development Lead</text>
+<text x="44" y="454" font-size="27" fill="#b1bdc9" font-weight="400" >Picking, logistics, B2B &amp; automation.</text>
+<text x="44" y="483" font-size="27" fill="#b1bdc9" font-weight="400" >Flexxus + Magento integrations.</text>
+<rect x="24" y="507" width="592" height="207" rx="10" fill="#19232e"/>
+<text x="44" y="549" font-size="29" fill="#f2f5f8" font-weight="600" >Food Partners Patagonia</text>
+<text x="44" y="580" font-size="21" fill="#b1bdc9" font-weight="400" >Sep 2025–present</text>
+<text x="44" y="615" font-size="27" fill="#88cec9" font-weight="400" >Full Stack Developer / Xenova</text>
+<text x="44" y="650" font-size="27" fill="#b1bdc9" font-weight="400" >ERP: production, quality &amp; traceability.</text>
+<text x="44" y="680" font-size="27" fill="#b1bdc9" font-weight="400" >Stock, exports, HR &amp; employee PWA.</text>
+<text x="30" y="760" font-size="29" fill="#f2f5f8" font-weight="600" >Selected projects</text>
+<text x="30" y="790" font-size="21" fill="#b1bdc9" font-weight="400" >Freelance through Xenova / 2025–present</text>
+<text x="30" y="834" font-size="28" fill="#f2f5f8" font-weight="500" >Catalejo Travel</text>
+<text x="30" y="865" font-size="27" fill="#b1bdc9" font-weight="400" >Travel catalog, seasonal rates &amp; CMS</text>
+<text x="30" y="900" font-size="28" fill="#f2f5f8" font-weight="500" >Quinta Pata</text>
+<text x="30" y="931" font-size="27" fill="#b1bdc9" font-weight="400" >Enrollment, Excel imports &amp; QR IDs</text>
+<text x="30" y="966" font-size="28" fill="#f2f5f8" font-weight="500" >Inspira Ingeniería</text>
+<text x="30" y="997" font-size="27" fill="#b1bdc9" font-weight="400" >Corporate site &amp; secure admin panel</text>
+<text x="30" y="1032" font-size="28" fill="#f2f5f8" font-weight="500" >Madryn Buceo</text>
+<text x="30" y="1063" font-size="27" fill="#b1bdc9" font-weight="400" >Website, reservations &amp; management</text>
+<path d="M30 1090h580" fill="none" stroke="#2c3c4b"/>
+<text x="30" y="1134" font-size="29" fill="#f2f5f8" font-weight="600" >Toolkit</text>
+<text x="30" y="1178" font-size="26" fill="#88cec9" font-weight="500" >Web</text>
+<text x="30" y="1207" font-size="25" fill="#b1bdc9" font-weight="400" >React, Next.js, TypeScript</text>
+<text x="30" y="1241" font-size="26" fill="#88cec9" font-weight="500" >Backend &amp; data</text>
+<text x="30" y="1270" font-size="25" fill="#b1bdc9" font-weight="400" >Laravel, PHP, PostgreSQL, MySQL</text>
+<text x="30" y="1304" font-size="26" fill="#88cec9" font-weight="500" >Mobile</text>
+<text x="30" y="1333" font-size="25" fill="#b1bdc9" font-weight="400" >React Native, Expo, Flutter</text>
+<text x="30" y="1367" font-size="26" fill="#88cec9" font-weight="500" >Delivery</text>
+<text x="30" y="1396" font-size="25" fill="#b1bdc9" font-weight="400" >Linux / VPS, Docker, CI/CD, Git, AWS</text>
+<path d="M30 1430h580" fill="none" stroke="#2c3c4b"/>
+<text x="30" y="1470" font-size="25" fill="#f2f5f8" font-weight="400" >University Technical Degree in Programming</text>
+<text x="30" y="1503" font-size="24" fill="#b1bdc9" font-weight="400" >UTN / 2021–2024</text>
+<text x="30" y="1538" font-size="24" fill="#b1bdc9" font-weight="400" >Spanish: native / English: B1</text>
+<path id="flow" d="M30 1557H610" stroke="#88cec9" stroke-width="3" fill="none" stroke-dasharray="100 1800"/>
+</svg>
