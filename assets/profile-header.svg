@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Máximo Ozonas — Development Lead &amp; Full Stack Developer</title>
+  <desc id="desc">From business needs to software in production. Bahía Blanca, Argentina. A connected workflow illustrates discovery, design, build, and delivery.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#36516c" stroke-width="0.5" opacity="0.3" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="#14283f" />
+  <path d="M740 0H1184Q1200 0 1200 16V304Q1200 320 1184 320H740Z" fill="url(#grid)" />
+  <path d="M0 304H1200V320H16Q0 320 0 304Z" fill="#203f5c" />
+  <g font-family="Bahnschrift, 'Trebuchet MS', Arial, sans-serif">
+    <text x="44" y="47" fill="#b6c9db" font-size="17">maxiozonas / Bahía Blanca, Argentina</text>
+    <text x="44" y="116" fill="#f2f6fa" font-size="60" font-weight="600">Máximo Ozonas</text>
+    <text x="46" y="155" fill="#b6c9db" font-size="22">Development Lead &amp; Full Stack Developer</text>
+    <text x="44" y="219" fill="#f2f6fa" font-size="27">From business needs to software in production.</text>
+    <text x="46" y="261" fill="#85b9ea" font-size="18">Web / Mobile / Business systems</text>
+    <g font-size="17" text-anchor="middle" fill="#b6c9db">
+      <text x="825" y="62">Discover</text>
+      <text x="1060" y="62">Design</text>
+      <text x="1060" y="274">Build</text>
+      <text x="825" y="274">Deliver</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#426482" stroke-width="2">
+    <path d="M825 95H1028Q1060 95 1060 127V201Q1060 233 1028 233H825" />
+    <path d="M825 95V233" stroke-dasharray="4 8" opacity="0.5" />
+    <path d="m942 89 6 6-6 6m124 65-6 6-6-6m-109 61-6 6 6 6" stroke="#85b9ea" />
+    <circle cx="825" cy="95" r="22" fill="#14283f" stroke="#85b9ea" />
+    <path d="M816 95H834M825 86V104" stroke="#85b9ea" />
+    <rect x="1043" y="78" width="34" height="34" rx="5" fill="#14283f" stroke="#85b9ea" transform="rotate(45 1060 95)" />
+    <circle cx="1060" cy="95" r="5" stroke="#85b9ea" />
+    <rect x="1038" y="211" width="44" height="44" rx="8" fill="#14283f" stroke="#85b9ea" />
+    <path d="m1054 225-8 8 8 8m12-16 8 8-8 8" stroke="#85b9ea" />
+    <circle cx="825" cy="233" r="22" fill="#14283f" stroke="#f2c879" />
+    <path d="m815 233 7 7 14-15" stroke="#f2c879" stroke-width="3" />
+  </g>
+</svg>

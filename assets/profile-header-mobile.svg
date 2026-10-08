@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">Máximo Ozonas — Development Lead &amp; Full Stack Developer</title>
+  <desc id="desc">From business needs to software in production. Bahía Blanca, Argentina. Web, mobile, and business systems.</desc>
+  <rect width="640" height="320" rx="16" fill="#14283f" />
+  <path d="M0 304H640V320H16Q0 320 0 304Z" fill="#203f5c" />
+  <g font-family="Bahnschrift, 'Trebuchet MS', Arial, sans-serif">
+    <text x="30" y="44" fill="#b6c9db" font-size="18">maxiozonas / Bahía Blanca, Argentina</text>
+    <text x="28" y="108" fill="#f2f6fa" font-size="55" font-weight="600">Máximo Ozonas</text>
+    <text x="30" y="145" fill="#b6c9db" font-size="23">Development Lead &amp; Full Stack Developer</text>
+    <text x="30" y="197" fill="#f2f6fa" font-size="27">From business needs</text>
+    <text x="30" y="231" fill="#f2f6fa" font-size="27">to software in production.</text>
+    <text x="30" y="279" fill="#85b9ea" font-size="18">Web / Mobile / Business systems</text>
+  </g>
+  <path d="M372 271H602" fill="none" stroke="#426482" stroke-width="2" />
+  <g fill="#14283f" stroke="#85b9ea" stroke-width="2">
+    <circle cx="372" cy="271" r="5" />
+    <circle cx="450" cy="271" r="5" />
+    <circle cx="526" cy="271" r="5" />
+    <circle cx="602" cy="271" r="8" stroke="#f2c879" />
+  </g>
+</svg>
